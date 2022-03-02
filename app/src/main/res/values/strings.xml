@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="detail_text">Detail</string>
+    <string name="error_message_500">Unable to connect with server.Please try after some time</string>
+    <string name="error_message_404">Please try later</string>
+    <string name="error_message_400">Please try later</string>
+    <string name="error_message_104">"Your monthly usage limit has been reached. Please upgrade your Subscription Plan."</string>
+    <string name="error_message_101">"No API Key was specified or an invalid API Key was specified."</string>
+    <string name="error_message_103">"The requested API endpoint does not exist."</string>
+    <string name="error_message_105">"The current subscription plan does not support this API endpoint."</string>
+    <string name="error_message_106">"The current request did not return any results."</string>
+    <string name="error_message_102">"The account this API request is coming from is inactive."</string>
+    <string name="error_message_201">"An invalid base currency has been entered."</string>
+    <string name="error_message_202">"One or more invalid symbols have been specified."</string>
+    <string name="error_message_any">Technical issue. Please check internet connection and try again</string>
+    <string name="one_text">1</string>
+    <string name="zero_text">0</string>
+
+</resources>
